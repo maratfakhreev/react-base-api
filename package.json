@@ -1,0 +1,21 @@
+{
+  "name": "react-base-api",
+  "version": "0.1.0",
+  "authors": [
+    "Marat Fakhreev <marat.fakhreev@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:maratfakhreev/react-base-api.git"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "engines": {
+    "node": "5.9.1"
+  },
+  "dependencies": {
+    "gulp": "~3.9.1",
+    "gulp-json-srv": "~0.2.0"
+  }
+}
