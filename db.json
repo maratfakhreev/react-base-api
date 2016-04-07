@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Pick up milk",
-      "isComplete": true
+      "isComplete": false
     },
     {
       "id": 2,
@@ -23,7 +23,15 @@
     {
       "id": 5,
       "name": "Oil change",
-      "isComplete": false
+      "isComplete": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User",
+      "email": "user@example.com",
+      "authentication_token": "12937698127698712936"
     }
   ]
 }
