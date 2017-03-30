@@ -12,10 +12,10 @@
     "start": "gulp"
   },
   "engines": {
-    "node": "5.9.1"
+    "node": "7.8.0"
   },
   "dependencies": {
     "gulp": "~3.9.1",
-    "gulp-json-srv": "~0.2.0"
+    "gulp-json-srv": "~1.0.1"
   }
 }
